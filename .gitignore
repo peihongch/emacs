@@ -1,0 +1,5 @@
+# .gitignore file for Emacs configuration
+auto-save-list/
+elpa/
+eshell/history
+*.elc

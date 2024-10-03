@@ -1,0 +1,56 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/peihongchen/GitHub/linux-4.17.4/arch/x86/" . "kvm/")
+ ("/Users/peihongchen/GitHub/linux-4.17.4/arch/" . "x86/")
+ ("/Users/peihongchen/GitHub/linux-4.17.4/" . "arch/")
+ ("/Users/peihongchen/Documents/" . "$RECYCLE.BIN/")
+ ("/Users/peihongchen/" . "Documents/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/peihongchen/GitHub/linux-4.17.4/arch/x86/kvm/"
+ "/Users/peihongchen/Documents/codespace/myproj/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "pmu.c"
+ "main.c"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/peihongchen/GitHub/linux-4.17.4/arch/x86/kvm/" (23355 16753 0 0) "irq_comm.c" "mmu_audit.c" "mmu.c" "page_track.c" "svm.c" "kvm_cache_regs.h" "pmu_amd.c" "lapic.c" "x86.c" "tss.h" "i8254.h" "pmu.h" "irq.h" "hyperv.h" "cpuid.c" "mmutrace.h" "emulate.c" "pmu_intel.c" "ioapic.h" "trace.h" "vmx_evmcs.h" "x86.h" "lapic.h" "mmu.h" "paging_tmpl.h" "mtrr.c" "Kconfig" "vmx.c" "vmx_shadow_fields.h" "i8254.c" "Makefile" "debugfs.c" "cpuid.h" "hyperv.c" "irq.c" "pmu.c" "i8259.c" "ioapic.c" "../" "./")
+
+ ("/Users/peihongchen/GitHub/linux-4.17.4/arch/x86/" (23355 16753 0 0) "purgatory/" "kernel/" "Makefile_32.cpu" "events/" "Kconfig.cpu" "mm/" "lib/" "configs/" "kvm/" ".gitignore" "ia32/" "um/" "Kbuild" "hyperv/" "oprofile/" "ras/" "Kconfig" "platform/" "include/" "Makefile" "entry/" "realmode/" "boot/" "Makefile.um" "net/" "tools/" "math-emu/" "video/" "pci/" "crypto/" "Kconfig.debug" "xen/" "power/" "../" "./")
+
+ ("/Users/peihongchen/GitHub/linux-4.17.4/arch/" (23355 16753 0 0) "nios2/" "arm64/" "unicore32/" "sparc/" "alpha/" "riscv/" "arc/" "arm/" "microblaze/" "x86/" ".gitignore" "sh/" "mips/" "um/" "nds32/" "s390/" "hexagon/" "openrisc/" "Kconfig" "h8300/" "powerpc/" "c6x/" "xtensa/" "ia64/" "parisc/" "m68k/" "../" "./")
+
+ ("/Users/peihongchen/GitHub/linux-4.17.4/" (26365 27115 126635 657000) ".idea/" "block/" "GPATH" "kernel/" "CREDITS" "sound/" "fs/" ".vscode/" ".mailmap" "ipc/" "mm/" "lib/" ".gitattributes" ".clang-format" "scripts/" "arch/" ".gitignore" "GRTAGS" "certs/" "COPYING" "samples/" "virt/" "README" "MAINTAINERS" ".cache.mk" "Kbuild" "Kconfig" "include/" "Makefile" "security/" ".cocciconfig" "LICENSES/" "GTAGS" "drivers/" "net/" "tools/" "usr/" "Documentation/" "firmware/" ".get_maintainer.ignore" "crypto/" "init/" ".config" "../" "./")
+
+ ("/Users/peihongchen/GitHub/linux-4.17.4/virt/" (23355 16753 0 0) "lib/" "kvm/" "Makefile" "../" "./")
+
+ ("/Users/peihongchen/GitHub/linux-4.17.4/virt/kvm/" (23355 16753 0 0) "eventfd.c" "arm/" "irqchip.c" "async_pf.h" "vfio.c" "coalesced_mmio.h" "kvm_main.c" "Kconfig" "async_pf.c" "vfio.h" "coalesced_mmio.c" "../" "./")
+
+ ("/Users/peihongchen/Documents/codespace/myproj/" (26365 25960 0 0) "main.c" "../" "./")
+
+ ("/Users/peihongchen/Documents/$RECYCLE.BIN/" (25717 24847 720142 841000) "desktop.ini" "../" "./")
+
+ ("/Users/" (26348 12218 988070 851000) "Shared/" "peihongchen/" ".localized" "../" "./")
+
+ ("/Users/peihongchen/Documents/" (26365 25216 0 0) "视频号/" ".UTSystemConfig/" "D5600RMPRC_(Sc)04.pdf" "D850_D500_D7500_D5600_FU_addendumPRC_(Sc)01.pdf" "desktop.ini" ".beacon/" "WechatIMG37.jpeg" "D5600UM_NT(Sc)04.pdf" "微信公众号/" "Adobe/" "Photoshop/" "beauty_1688995426098.png" "Storage/" "电子签名.png" "TTKN/" "毕业要求/" ".cached/" "阿里云神龙/" "陈培鸿-南京大学-软件学院 简历.png" "Transwarp/" "$RECYCLE.BIN/" "WechatIMG37.jpg" "WechatIMG37.png" ".localized" "操作系统/" "作者：张可粒.png" "League of Legends/" ".DS_Store" "eBooks/" "WechatIMG387.jpeg" "../" "./")
+
+ ("/Users/peihongchen/" (26365 25069 442860 331000) ".stagehand" ".zcompdump-MacBook Pro (3)-5.8" ".smartassist/" ".zsh_sessions/" ".viminfo" ".bash_history" ".gitconfig" ".mytb-edge-logs/" ".cache/" ".redhat/" ".python_history" "Downloads/" "cursor-ai-project/" ".zcompdump-MacBook Pro-5.7.1" ".oh-my-zsh/" ".zcompdump-MacBook Pro-5.8" ".swiftpm/" ".gem/" ".bash_profile" ".cursor-tutor/" ".m2/" ".vscode/" ".mono/" "Sunlogin Files/" ".software/" ".mailcap" "Documents/" ".zcompdump-MacBook Pro (2)-5.8" ".firefly2.conf" ".zcompdump" ".jupyter/" ".zcompdump-MacBook Pro (2)-5.7.1" ".react-native-cli/" ".Trash/" ".zcompdump-MacBook Air M2-5.9.zwc" ".flutter_settings" ".flutter-devtools/" ".profile" ".hidpi-disable" "Applications/" "Movies/" "Applications (Parallels)/" ".ssh/" ".rustup/" ".mytb-edge-data/" ".zcompdump-MacBook Pro (3)-5.8.1.zwc" ".vultr-cli.yaml" ".flutter" ".zshenv" "Virtual Machines.localized/" "GitHub/" "Public/" ".iterm2/" ".lemminx/" ".ipfs-desktop/" "Sites/" ".cups/" ".zcompdump-MacBook Air M2-5.8.1" "..spacemacs.~undo-tree~" ".proxyman/" ".cocoapods/" ".dlv/" ".zcompdump-MacBook Pro (3)-5.8.1" ".cargo/" ".node_repl_history" ".lanternsecrets/" ".emacs.d/" ".minikube/" ".ShadowsocksX-NG/" "Parallels/" ".emulator_console_auth_token" ".oracle_jre_usage/" ".lesshst" ".matplotlib/" ".npmrc" "Library/" "Desktop/" ".iterm2_shell_integration.zsh" ".ipython/" ".zsh_history" "..zshrc.~undo-tree~" ".flutter_tool_state" "Sunlogin/" ".anes/" ".pub-cache/" ".ipfs/" ".mytb-data/" ".Cocos/" "Pictures/" ".local/" ".mime.types" ".packettracer" ".proxyman-data/" ".zcompdump-MacBook Air M2-5.9" ".zcompdump-peihongchen的MacBook Pro-5.7.1" ".zshrc" ".vnc/" ".bashrc" ".subversion/" ".zcompdump-MacBook Air M2-5.8.1.zwc" ".sogouinput/" ".tooling/" ".wget-hsts" ".lc/" "javasharedresources/" ".CFUserTextEncoding" ".yarnrc" "cursor-tutor/" ".lldb/" "VirtualBox VMs/" "GitLab/" ".g/" ".zshrc~" ".gnupg/" ".gitignore-boilerplates/" ".DS_Store" ".dart/" ".vim/" ".node-gyp/" ".fleet/" ".docker/" ".wns/" ".mytb-logs/" ".bytertc/" "Music/" ".config/" "../" "./")
+
+ ("/Users/peihongchen/.emacs.d/" (26365 25860 288162 831000) "elpa/" "init.el" "auto-save-list/" "projectile-bookmarks.eld" "lisp/" "tutorial/" "init.el~" "snippets/" "../" "./")
+
+ ("/Users/peihongchen/.emacs.d/elpa/" (26365 25765 558396 6000) "company-20240926.2127/" "flycheck-20240726.456/" "which-key-20240620.2145/" "gnupg/" "treemacs-20240815.1227/" "dash-20240510.1327/" "markdown-mode-20240829.324/" "helm-core-20240929.353/" "helm-projectile-20231023.1425/" "yasnippet-20240406.1314/" "clang-format-20240828.1832/" "dap-mode-20240611.1356/" "spinner-1.7.4/" "hydra-20220910.1206/" "ht-20230703.558/" "async-20240821.253/" "s-20220902.1511/" "f-20240308.906/" "cfrs-20220129.1149/" "wfnames-20240820.906/" "ggtags-20230602.133/" "pfuture-20220913.1401/" "avy-20230420.404/" "ace-window-20220911.358/" "spinner-1.7.4.signed" "lsp-treemacs-20240406.2141/" "lv-20200507.1518/" "archives/" "bind-key-20230203.2004/" "projectile-20240901.1554/" "lsp-mode-20240930.1803/" "gnu-elpa-keyring-update-2022.12.1/" "posframe-20240827.654/" "helm-20240929.416/" "bui-20210108.1141/" "lsp-docker-20240419.1428/" "use-package-20230426.2324/" "yaml-20231211.1501/" "../" "./")
+
+ ("/Users/peihongchen/.emacs.d/elpa/helm-20240929.416/" (26365 25519 603542 667000) "helm-grep.el" "helm-tags.elc" "helm-fd.elc" "helm-packages.elc" "helm-regexp.elc" "helm-elisp.elc" "helm-bookmark.elc" "helm-epa.elc" "helm-font.el" "helm-bookmark.el" "helm-find.elc" "helm-locate.elc" "helm-files.elc" "helm-adaptive.el" "helm-occur.el" "helm-font.elc" "helm-imenu.elc" "helm-help.elc" "helm-ring.elc" "helm-sys.elc" "helm-easymenu.el" "helm-misc.elc" "helm-fd.el" "helm-eshell.el" "helm-buffers.el" "helm.el" "helm-command.elc" "helm-tags.el" "helm-dabbrev.elc" "helm-net.el" "helm-locate.el" "helm-utils.el" "helm-elisp.el" "helm-occur.elc" "helm-global-bindings.el" "helm-man.el" "helm-external.el" "helm-misc.el" "helm-ring.el" "helm-semantic.el" "helm-external.elc" "helm-command.el" "helm-net.elc" "helm-mode.elc" "helm-eshell.elc" "helm-pkg.el" "helm-id-utils.el" "helm-x-files.el" "helm-autoloads.el" "helm-eval.elc" "helm-types.el" "helm-semantic.elc" "helm-man.elc" "helm.elc" "helm-types.elc" "helm-utils.elc" "helm-for-files.elc" "helm-eval.el" "helm-info.elc" "helm-adaptive.elc" "helm-help.el" "emacs-helm.sh" "helm-epa.el" "helm-dabbrev.el" "helm-regexp.el" "helm-info.el" "helm-global-bindings.elc" "helm-imenu.el" "helm-color.elc" "helm-sys.el" "helm-buffers.elc" "helm-id-utils.elc" "helm-packages.el" "helm-color.el" "helm-x-files.elc" "helm-grep.elc" "helm-find.el" "helm-for-files.el" "helm-easymenu.elc" "helm-mode.el" "helm-files.el" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
